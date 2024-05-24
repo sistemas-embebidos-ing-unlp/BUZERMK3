@@ -1,0 +1,12 @@
+../Core/Src/funciones.c:45:6:PrenderGancho	1
+../Core/Src/funciones.c:61:6:ApagarGancho	1
+../Core/Src/funciones.c:74:6:MensajePerdiste	1
+../Core/Src/funciones.c:97:6:MensajeGanaste	1
+../Core/Src/funciones.c:109:6:Mensajeinicio	1
+../Core/Src/funciones.c:118:6:MensajeinicioMAL	1
+../Core/Src/funciones.c:128:6:LedRojo	3
+../Core/Src/funciones.c:133:6:LedVerde	3
+../Core/Src/funciones.c:138:6:LedAzul	3
+../Core/Src/funciones.c:144:6:Top10	8
+../Core/Src/funciones.c:188:6:FuncionInit	1
+../Core/Src/funciones.c:193:6:FuncionBuzzer	15

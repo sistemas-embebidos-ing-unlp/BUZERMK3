@@ -1,0 +1,12 @@
+../Core/Src/funciones.c:45:6:PrenderGancho	32	static
+../Core/Src/funciones.c:61:6:ApagarGancho	32	static
+../Core/Src/funciones.c:74:6:MensajePerdiste	120	static
+../Core/Src/funciones.c:97:6:MensajeGanaste	120	static
+../Core/Src/funciones.c:109:6:Mensajeinicio	8	static
+../Core/Src/funciones.c:118:6:MensajeinicioMAL	8	static
+../Core/Src/funciones.c:128:6:LedRojo	16	static
+../Core/Src/funciones.c:133:6:LedVerde	16	static
+../Core/Src/funciones.c:138:6:LedAzul	16	static
+../Core/Src/funciones.c:144:6:Top10	128	static
+../Core/Src/funciones.c:188:6:FuncionInit	4	static
+../Core/Src/funciones.c:193:6:FuncionBuzzer	8	static
